@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tämä tiedosto olisi piilotettuna oikeassa ympäristössä-->
+<resources>
+    <string name="username">Hidden</string>
+    <string name="password">Hidden</string>
+    <string name="URL">Not up anymore</string>
+</resources>
