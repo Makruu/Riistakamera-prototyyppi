@@ -1,0 +1,2 @@
+# Riistakamera-prototyyppi
+Savonian projektityö
